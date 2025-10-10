@@ -83,7 +83,7 @@ const niraj = {
 <div align="center">
 
 ### 🍔 Food Donation Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://nirajkrdangi.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://feedaid.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/nirajkumardangi)
 
 </div>
@@ -100,11 +100,40 @@ const niraj = {
 - Admin dashboard for management
 
 **💡 Tech Stack:**
-`React` `Firebase` `Google Maps API` `Material-UI` `Context API`
+`React` `Firebase` `Google Maps API` `Material-UI` `Context API` `Tailwind-CSS`
 
 </td>
 <td width="50%">
   <img src="https://nirajkrdangi.netlify.app/images/portfolio1.png" alt="Food Donation App" style="border-radius: 10px;"/>
+</td>
+</tr>
+</table>
+
+---
+<div align="center">
+
+### 💻 Responsive Portfolio Website
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://nirajkrdangi.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/nirajkumardangi)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github.com/nirajkumardangi/my-portfolio/blob/main/images/home-page.png" alt="Responsive Portfolio" style="border-radius: 10px;"/>
+</td>
+<td width="50%">
+
+**🌟 Key Features:**
+- Fully responsive design for all devices
+- Interactive UI with smooth scrolling, hover effects, and animations
+- Project showcase with descriptions and links
+- Contact section with form and social media links
+
+**💡 Tech Stack:**
+`HTML` `CSS` `JavaScript` `Responsive Design` `Animations` `Forms`
+
 </td>
 </tr>
 </table>
@@ -121,9 +150,6 @@ const niraj = {
 <table>
 <tr>
 <td width="50%">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="AI Project" style="border-radius: 10px;"/>
-</td>
-<td width="50%">
 
 **🌟 Key Features:**
 - OpenAI GPT integration
@@ -136,6 +162,9 @@ const niraj = {
 `React` `Node.js` `OpenAI API` `Socket.io` `MongoDB` `JWT`
 
 </td>
+<td width="50%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="AI Project" style="border-radius: 10px;"/>
+</td>
 </tr>
 </table>
 
@@ -144,12 +173,15 @@ const niraj = {
 <div align="center">
 
 ### 📱 E-Commerce MERN App
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/nirajkumardangi)
+[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
 
 </div>
 
 <table>
 <tr>
+<td width="50%">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="E-commerce" style="border-radius: 10px;"/>
+</td>
 <td width="50%">
 
 **🌟 Key Features:**
@@ -162,9 +194,6 @@ const niraj = {
 **💡 Tech Stack:**
 `React` `Redux` `Node.js` `Express` `MongoDB` `Stripe API`
 
-</td>
-<td width="50%">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="E-commerce" style="border-radius: 10px;"/>
 </td>
 </tr>
 </table>
@@ -195,7 +224,7 @@ const niraj = {
 </p>
 
 ### 📜 Certifications
-- 🎓 **Full Stack Web Development** - Internshala
+- 🎓 **Full Stack Web Development** - PW Skill
 - 🤖 **Machine Learning Specialization** - Coursera
 - ⚛️ **React - The Complete Guide** - Udemy
 - 🔐 **Cybersecurity Fundamentals** - IBM
@@ -209,20 +238,19 @@ const niraj = {
 Education:
   - Degree: Master of Computer Applications (MCA)
     Institution: Ranchi University
-    Duration: 2023 - Present
+    Duration: 2024 - 2026
     Focus: Software Engineering, AI/ML, Web Technologies
-    CGPA: 8.5/10
-  
+
   - Degree: Bachelor of Computer Applications (BCA)
     Institution: Ranchi University
-    Duration: 2020 - 2023
-    Achievement: First Division
+    Duration: 2021 - 2024
+    CGPA: 8.2/10
 
 Experience:
   - Role: Full Stack Development Intern (Seeking)
     Status: Open to opportunities
     Interests: MERN Stack, AI Integration, Cloud Computing
-  
+
   - Role: Freelance Web Developer
     Duration: 2023 - Present
     Projects: 5+ client projects delivered
@@ -243,11 +271,11 @@ Experience:
 
 ### 🎯 Current Goals (2025)
 
-- [ ] Contribute to 10+ open source projects
+- [ ] Contribute to 5+ open source projects
 - [ ] Build 3 full-stack production apps with AI
 - [ ] Master System Design & Microservices
 - [ ] Secure a software engineering internship
-- [ ] Write 20+ technical blogs
+- [ ] Write 10+ technical blogs
 - [ ] Mentor 5+ junior developers
 
 ### ⚡ Fun Facts About Me
@@ -293,10 +321,10 @@ Other        50 mins         █░░░░░░░░░░░░░░░░
 
 ### I'm looking to collaborate on:
 
-🔹 **Open Source MERN Projects**  
-🔹 **AI/ML Web Applications**  
-🔹 **Innovative Startup Ideas**  
-🔹 **Hackathon Teams**  
+🔹 **Open Source MERN Projects**
+🔹 **AI/ML Web Applications**
+🔹 **Innovative Startup Ideas**
+🔹 **Hackathon Teams**
 🔹 **Tech Content Creation**
 
 ### 📫 How to Reach Me
@@ -320,28 +348,14 @@ Other        50 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 💖 Support My Work
-
-<div align="center">
-
-If you like my projects, give them a ⭐️ and follow me!
-
-<a href="https://www.buymeacoffee.com/nirajkumar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-</a>
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
-  
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=nirajkumardangi&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/nirajkumardangi?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/>
   </p>
-  
+
   <p>
     <sub>⭐️ From <a href="https://github.com/nirajkumardangi">Niraj Kumar Dangi</a> with ❤️</sub>
   </p>
