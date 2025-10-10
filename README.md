@@ -180,7 +180,7 @@ const niraj = {
 <table>
 <tr>
 <td width="50%">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="E-commerce" style="border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="E-commerce" style="border-radius: 10px;"/>
 </td>
 <td width="50%">
 
