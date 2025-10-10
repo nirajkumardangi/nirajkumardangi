@@ -27,7 +27,7 @@
 
 ```javascript
 const niraj = {
-    location: "Patna, Bihar, India 🇮🇳",
+    location: "Ranchi, Jharkhand, India 🇮🇳",
     education: "MCA @ Ranchi University",
     currentFocus: "Building scalable MERN applications with AI integration",
     lookingFor: "Internship opportunities to grow and innovate",
