@@ -17,16 +17,13 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=700&lines=AI+Full-Stack+Developer;Building+Scalable+MERN+%26+AI+Products;Specialized+in+RAG+%26+Computer+Vision;Open+to+Internship+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=700&lines=AI+Full-Stack+Developer;Building+Scalable+MERN+%26+AI+Products;Specialized+in+RAG+%26+Computer+Vision;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 
 </div>
 
----
-
 ## <img src="https://img.icons8.com/fluency/28/null/user-male-circle.png" width="24" height="24"/> About Me
-
 I am an **AI Full-Stack Developer** based in Ranchi, Jharkhand. I build scalable web applications and practical AI systems — from local RAG assistants to computer-vision pipelines and full-stack SaaS products.
 
 **Key points:**
@@ -35,7 +32,7 @@ I am an **AI Full-Stack Developer** based in Ranchi, Jharkhand. I build scalable
 - **Focus** — Next.js, FastAPI, Vector Databases, Local LLMs, System Design
 - **Status** — Open to Full-Stack & AI internship opportunities
 
----
+<br/>
 
 ## <img src="https://img.icons8.com/fluency/28/null/maintenance.png" width="24" height="24"/> Tech Stack
 
@@ -61,11 +58,9 @@ I am an **AI Full-Stack Developer** based in Ranchi, Jharkhand. I build scalable
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
----
+<br/>
 
 ## <img src="https://img.icons8.com/fluency/28/null/repository.png" width="24" height="24"/> Featured Projects
-
-<br/>
 
 ### Tree Detection & Localization System
 > AI-assisted computer vision pipeline for image quality checks, detection, localization and segmentation.
@@ -191,7 +186,7 @@ JWT auth, developer profiles, like/match flows and REST APIs. Frontend built wit
   <img src="https://streak-stats.demolab.com?user=nirajkumardangi&theme=radical&hide_border=true&background=0F172A&ring=4F46E5&fire=F43F5E&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B"/>
 </div>
 
----
+<br/>
 
 ## <img src="https://img.icons8.com/fluency/28/null/trophy.png" width="24" height="24"/> Achievements & Certifications
 
@@ -202,7 +197,7 @@ JWT auth, developer profiles, like/match flows and REST APIs. Frontend built wit
 | HTML, CSS & JavaScript for Web Developers | Johns Hopkins University (Coursera) |
 | GitHub Pull Shark (Bronze) | GitHub |
 
----
+<br/>
 
 ## <img src="https://img.icons8.com/fluency/28/null/student-center.png" width="24" height="24"/> Education
 
@@ -211,7 +206,7 @@ JWT auth, developer profiles, like/match flows and REST APIs. Frontend built wit
 | MCA | Doranda College, Ranchi University | 2024 – 2026 | Final Year · Focus: Full-Stack, AI, Scalable Systems |
 | B.Sc. Information Technology | Doranda College, Ranchi University | 2021 – 2024 | CGPA 8.12 |
 
----
+<br/>
 
 <div align="center">
 
@@ -224,12 +219,6 @@ JWT auth, developer profiles, like/match flows and REST APIs. Frontend built wit
 <a href="https://www.linkedin.com/in/nirajkumardangi/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nirajkumardangi&style=for-the-badge&color=4F46E5" alt="Profile views"/>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:7C3AED&height=100&section=footer" width="100%" alt="footer"/>
 
